@@ -21,7 +21,7 @@ my father
 ma mère  
 my mother
 Frère  
-bro
+brother
 Harry Héros
 name
 Balzac
@@ -401,7 +401,7 @@ Je suis d'accord.
 Coucou !
 嗨！
 Voici quatre tickets.
-This is 4 tickets
+Here are 4 tickets.
 C'est ... [sε]
 This is ...
 C'est bon ! 
@@ -418,3 +418,92 @@ Le français est difficile.
 法语难。
 Aujourd'hui, il fait beau.
 今天天气好。
+gouvernement
+government
+entreprise
+enterprise
+menu
+套餐
+du riz
+米饭
+venir
+come
+fenêtre
+窗户
+secret
+secret
+sœur
+姐妹
+heure
+hour
+deux
+two
+feu
+火
+jeu
+游戏
+vœu
+愿望
+bleu
+blue
+neutre
+neutral
+jeudi
+周四
+chanteur/chanteuse
+歌手
+neuf
+nine
+dix
+ten
+grand
+高大的
+la Chine
+中国
+chinois
+中国人
+vivre
+生活
+shampoing
+shampoo
+Bonne journée!
+祝你度过愉快的一天！
+avoir
+have
+j'ai (accent !)
+[ʒe]
+J'ai dix ans.
+我十岁。
+nager
+游泳
+J'aime nager
+我喜欢游泳。
+garcon
+Je pense que ...
+I think that ...
+profession
+职业
+descendre
+下（楼，车）
+attention
+当心
+disparition
+消失
+diplomacie
+diplomacy
+bizarre
+bizarre
+bise
+亲吻
+faire la bise
+贴面礼
+visiter
+visit
+musée
+museum
+huit 
+eight
+six
+six
+enthousiaste
+enthusiastic
