@@ -1,6 +1,6 @@
 cadeau
 礼物
-gateau
+g^ateau
 蛋糕
 Bonjour
 你好（白天使用）,早安
@@ -10,19 +10,19 @@ Salut
 嗨（非正式）
 Merci
 谢谢
-S'il vous plaît
+S'il vous pla^it
 请（正式）
-S'il te plaît
+S'il te pla^it
 请（非正式）
 Okay
 Ok
-mon père 
+mon p`ere 
 my father
-ma mère  
+ma m`ere  
 my mother
-Frère  
+Fr`ere  
 brother
-Harry Héros
+Harry H\'eros
 name
 Balzac
 name
@@ -42,19 +42,19 @@ la salade
 sala
 ma femme
 my wife
-bête
+b^ete
 beast
-Fête des Mères
+F^ete des M`eres
 Mothers' Day
-Noël
+No"el
 圣诞节
-être
+^etre
 be
-Je suis étudiant(e)
+Je suis \'etudiant(e)
 I am a student
 aimer
 love
-faire la fête
+faire la f^ete
 have a party
 faire du ski
 I like ski
@@ -76,7 +76,7 @@ disque
 disk
 quatre
 four
-Pâques (accent !)
+P^aques (accent!)
 [pɑk] 复活节
 musique
 music
@@ -96,17 +96,17 @@ ticket
 ticket
 forêt
 forest
-respect (accent !)
+respect (accent!)
 respect
 Elle
 she
-Elle est belle ! / Il est beau !
+Elle est belle! / Il est beau!
 She/He is beautiful.
 lit
 bed
-naïf
+na"if
 天然的；天真的；幼稚的
-poème
+po`eme
 poem
 café
 cafe
@@ -114,7 +114,7 @@ Merci
 Thankyou
 classe
 class
-crème
+cr`eme
 cream
 arbre
 tree
@@ -124,9 +124,9 @@ sel
 salt
 addresse
 address
-Ca va ?
+,Ca va ?
 Hello
-Ca va bien, merci !
+,Ca va bien, merci!
 Hello
 été
 summer
@@ -164,7 +164,7 @@ christ
 基督
 technique
 technique
-J'esus-Christ (accent !)
+J'esus-Christ (accent!)
 耶稣基督
 ange
 angel
@@ -190,7 +190,7 @@ examen
 exam
 exercise
 exercise
-exact (accent !)
+exact (accent!)
 exact
 inexact
 inexact
@@ -226,7 +226,7 @@ votre
 your(s)
 chocolat
 chocolate
-forum album (accent !)
+forum album (accent!)
 forum album
 chose
 things
@@ -244,7 +244,7 @@ kilo
 kg
 voir
 看见， 看到
-fille (accent !)
+fille (accent!)
 daughter
 faire
 do
@@ -270,7 +270,7 @@ vous
 you s
 nous
 we
-tu (accent !)
+tu (accent!)
 you
 il
 he/it
@@ -348,9 +348,9 @@ chouchou
 宝贝
 dû (devoir)
 欠, 受恩于
-août  (accent !)
+août  (accent!)
 [u(t)] August
-tu  (accent !)
+tu  (accent!)
 you
 métro
 subway
@@ -378,17 +378,17 @@ texte
 text
 Pardon
 Pardon
-les États-Unis
+les \'Etats-Unis
 United States
 René Descartes
 勒内·笛卡尔
 Je pense, donc je suis
 我思故我在
-Bonne continuation !
+Bonne continuation!
 再接再励
-Vive la paix !
+Vive la paix!
 和平万岁！
-L'addition, s'il vous plaît !
+L'addition, s'il vous pla^it!
 请结账，谢谢！
 J'aime le rock.
 我喜欢摇滚乐
@@ -398,19 +398,19 @@ D'accord.
 好的。
 Je suis d'accord.
 我同意
-Coucou !
+Coucou!
 嗨！
 Voici quatre tickets.
 Here are 4 tickets.
 C'est ... [sε]
 This is ...
-C'est bon ! 
+C'est bon! 
 不错! 很好!
 C'est qui ? C'est Marie. C'est ma femme.
 Who is she ? ...
-Excusez-moi !/Pardon !
+Excusez-moi!/Pardon!
 不好意思！
-Métro, boulot, dodo !
+Métro, boulot, dodo!
 地铁、工作、睡觉！
 Le français est facile.
 法语简单。
@@ -428,11 +428,11 @@ du riz
 米饭
 venir
 come
-fenêtre
+fen^etre
 窗户
 secret
 secret
-sœur
+s\oeur
 姐妹
 heure
 hour
@@ -442,7 +442,7 @@ feu
 火
 jeu
 游戏
-vœu
+v\oeu
 愿望
 bleu
 blue
@@ -470,7 +470,7 @@ Bonne journée!
 祝你度过愉快的一天！
 avoir
 have
-j'ai (accent !)
+j'ai (accent!)
 [ʒe]
 J'ai dix ans.
 我十岁。
@@ -478,7 +478,8 @@ nager
 游泳
 J'aime nager
 我喜欢游泳。
-garcon
+gar\,con
+小男孩
 Je pense que ...
 I think that ...
 profession
