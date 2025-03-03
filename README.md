@@ -1,16 +1,16 @@
 # Word Flash
-This is a simple word reviewer.
+A simple word review application for vocabulary learning.
 
-Here is a demo
+## Demo
+Watch it in action:
 
-![cover](assets/video/demo.png)
-![This is a gif](assets/video/gif_demo.gif)
+![Application Interface](assets/video/demo.png)
+![Demo Animation](assets/video/gif_demo.gif)
 
-This is an demo on bilibili
+Full demo video available on [Bilibili](https://www.bilibili.com/video/BV1rB9vYGE8M/)
 
-https://www.bilibili.com/video/BV1rB9vYGE8M/?vd_source=8d235b5ade2dad34ea6dc5b6b941ed86
-
-Remember to put your word list into `word_list.txt` with the following format:
+## Setup
+Create a `word_list.txt` file with your vocabulary in this format:
 ```
 word1
 definition1
@@ -19,7 +19,19 @@ definition2
 ...
 ```
 
-There is a `Go.bat` file included. Adjust it to point to your Python interpreter.
-Then you can just double click it to start the python file on your Windows
+## Controls
+- `Enter`: Next word
+- `L`: Show definition
+- `R`: Previous word
+- `Q`: Exit review mode
+- `C`: Close application
 
-Press 'L' to show the explanation, and 'Enter' to show the next word
+## How to Run
+1. Direct method:
+```bash
+python word_start.py
+```
+
+2. Windows users:
+	- Use the included `Go.bat` file (adjust Python path if needed)
+	- Double-click to launch

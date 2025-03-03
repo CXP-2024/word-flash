@@ -95,7 +95,7 @@ def run():
 			
 			# Display current word (using ANSI escape codes for color)
 			tqdm.tqdm.write(f"\n\033[1;3;32mCurrent: {word}\033[0m")
-			tqdm.tqdm.write("\033[33m[L]View Definition  [Enter]Next  [R]Back  [Q]Quit\033[0m")
+			# tqdm.tqdm.write("\033[33m[L]View Definition  [Enter]Next  [R]Back  [Q]Quit\033[0m")
 			
 			key_pressed = False
 			while True:
