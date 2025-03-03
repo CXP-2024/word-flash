@@ -118,15 +118,15 @@ crème
 cream
 arbre
 tree
-la mer
-sea
+la mer (accent !)
+[mεr] sea
 sel
 salt
 addresse
 address
-Ca va ?
+Ça va ?
 Hello
-Ca va bien, merci !
+Ça va bien, merci !
 Hello
 été
 summer
@@ -253,7 +253,7 @@ flame
 vif
 活的, 有生命的
 effet
-[efε]
+[efε] effect
 offre
 提供； 提议， 提出
 physique
@@ -265,7 +265,7 @@ philosophe
 Géométrie analytique
 [ʒeɔmetri] you know
 Mathématicien
-Mathematic man
+Mathematician
 vous
 you s
 nous
@@ -401,7 +401,7 @@ Je suis d'accord.
 Coucou !
 嗨！
 Voici quatre tickets.
-This is 4 tickets
+Here are 4 tickets.
 C'est ... [sε]
 This is ...
 C'est bon ! 

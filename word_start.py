@@ -59,20 +59,20 @@ def run():
                 elif key in ('\r', '\n'):
                     break
                 elif key == 'q':
-                    print("Quitting review session...")
+                    tqdm.tqdm.write(f"\033[1;3;31mQuitting review session...\033[0m")
                     return  # Exit the current review session
                 elif key == 'c':
-                    print("Exiting program completely...")
+                    tqdm.tqdm.write(f"\033[1;3;31mExiting the entire program...\033[0m")
                     sys.exit(0)  # Exit the entire program
             pbar.update(1)
             
 def main():
   while True:
-    print("👋 Welcome to Word Start! <All privacy reserved>\n If you're ready, press the Enter key:")
+    print("👋 \033[1;3;34mWelcome to Word Flash! <All privacy reserved>\n\033[1;3;35mWhen you're reviewing, some rules you should know: \nEnter: show the next word\nL: show the definition;\nC: exit the entire program; \nQ: Quitting review session\nIf you're ready, press the Enter key:\033[0m")
     input()
     run()
-    print("\n👋 You are so great! Do you want to try again? (y/n)")
-    if getch().lower() != 'y':
+    print("\n👋 You finished it! Chouchou, do you want to try again? (y/n)")
+    if getch().lower() == 'n':
         print("👋 Goodbye! See you next time!")
         break
 
