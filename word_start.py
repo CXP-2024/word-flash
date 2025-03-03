@@ -81,34 +81,49 @@ def load_word_list(file_path):
     return words
 
 def run():
-    word_list = load_word_list("word_list.txt")
-    if not word_list:
-        print("no valid word list found")
-        return
-    
-    with tqdm.tqdm(total=len(word_list), 
-                   desc="📖 \033[1;3;33mReviewing\033[0m", 
-                  	unit="word") as pbar:
-        for word, definition in word_list:
-            # show word
-            tqdm.tqdm.write(f"\n\033[1;3;32mCurrent: {word}\033[0m")
-            # tqdm.tqdm.write("L or Enter to go")
-            
-            key_pressed = False
-            while True:
-                key = getch().lower()
-                if key == 'l' and not key_pressed:
-                    tqdm.tqdm.write(f"\033[1;3;36mDefinition: {definition}\033[0m")
-                    key_pressed = True
-                elif key in ('\r', '\n'):
-                    break
-                elif key == 'q':
-                    tqdm.tqdm.write(f"\033[1;3;31mQuitting review session...\033[0m")
-                    return  # Exit the current review session
-                elif key == 'c':
-                    tqdm.tqdm.write(f"\033[1;3;31mExiting the entire program...\033[0m")
-                    sys.exit(0)  # Exit the entire program
-            pbar.update(1)
+	word_list = load_word_list("word_list.txt")
+	if not word_list:
+		print("no valid word list found")
+		return
+	
+	with tqdm.tqdm(total=len(word_list), 
+					 desc="📖 \033[1;3;33mReviewing\033[0m", 
+					 unit="word") as pbar:
+		current_index = 0
+		while current_index < len(word_list):
+			word, definition = word_list[current_index]
+			
+			# Display current word (using ANSI escape codes for color)
+			tqdm.tqdm.write(f"\n\033[1;3;32mCurrent: {word}\033[0m")
+			tqdm.tqdm.write("\033[33m[L]View Definition  [Enter]Next  [R]Back  [Q]Quit\033[0m")
+			
+			key_pressed = False
+			while True:
+				key = getch().lower()
+				if key == 'l' and not key_pressed:
+					# Display definition with color
+					tqdm.tqdm.write(f"\033[1;3;36mDefinition: {definition}\033[0m")
+					key_pressed = True
+				elif key in ('\r', '\n'):  # Enter key
+					# Move to next word and update progress
+					current_index += 1
+					pbar.update(1)
+					break
+				elif key == 'r':  # Back functionality
+					if current_index > 0:
+						# Go back to previous word and reset progress
+						current_index -= 1
+						pbar.update(-1)  # Progress bar goes back
+					else:
+						# Visual feedback
+						tqdm.tqdm.write("\033[1;31mAlready at first word!\033[0m")
+					break  # Exit current word loop
+				elif key == 'q':
+					tqdm.tqdm.write(f"\033[1;3;31mExiting review session...\033[0m")
+					return
+				elif key == 'c':
+					tqdm.tqdm.write(f"\033[1;3;31mExiting program...\033[0m")
+					sys.exit(0)
             
 def main():
   while True:
@@ -116,9 +131,15 @@ def main():
     input()
     run()
     print("\n👋 You finished it! Chouchou, do you want to try again? (y/n)")
-    if getch().lower() == 'n':
-        print("👋 Goodbye! See you next time!")
+    while(True):
+      key = getch().lower()
+      if key == 'y':
         break
+      elif key == 'n':
+        print("\n👋 \033[1;3;34mGoodbye! Chouchou~\033[0m")
+        sys.exit(0)
+      else:
+        print("\n👋 \033[1;3;31mPlease press y or n\033[0m")
 
 if __name__ == "__main__":
     main()
