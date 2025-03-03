@@ -57,6 +57,7 @@ love
 faire la fête
 have a party
 faire du ski
+I like ski
 cinq
 five
 coq
@@ -94,6 +95,7 @@ ballet
 ticket
 ticket
 forêt
+forest
 respect (accent !)
 respect
 Elle
@@ -111,7 +113,7 @@ cafe
 Merci
 Thankyou
 classe
-plaît
+class
 crème
 cream
 arbre
