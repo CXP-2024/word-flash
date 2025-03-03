@@ -24,7 +24,51 @@ def load_word_list(file_path):
     words = []
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
-            lines = [line.strip() for line in f.readlines()]
+            # Decode special notation for umlauted vowels
+            def decode_umlaut(text):
+                umlaut_map = {
+                    # German umlauts
+                    '"a': 'ä',
+                    '"e': 'ë',
+                    '"i': 'ï',
+                    '"o': 'ö',
+                    '"u': 'ü',
+                    '"A': 'Ä',
+                    '"E': 'Ë',
+                    '"I': 'Ï',
+                    '"O': 'Ö',
+                    '"U': 'Ü',
+                    # French accents
+                    '\\\'e': 'é',
+                    '`e': 'è',
+                    '^e': 'ê',
+                    '^a': 'â',
+                    '^i': 'î',
+                    '^o': 'ô',
+                    '^u': 'û',
+                    '`a': 'à',
+                    '`u': 'ù',
+                    '\\\'E': 'É',
+                    '`E': 'È',
+                    '^E': 'Ê',
+                    '^A': 'Â',
+                    '^I': 'Î',
+                    '^O': 'Ô',
+                    '^U': 'Û',
+                    '`A': 'À',
+                    '`U': 'Ù',
+                    '\\,c': 'ç',
+                    '\\,C': 'Ç',
+                    '\oe': 'œ',
+                }
+                for code, char in umlaut_map.items():
+                    text = text.replace(code, char)
+                return text
+
+            # Apply umlaut decoding to each line
+            content = f.read()
+            content = decode_umlaut(content)
+            lines = [line.strip() for line in content.splitlines()]
             
         for i in range(0, len(lines), 2):
             word = lines[i] if i < len(lines) else ""
