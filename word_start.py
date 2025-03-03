@@ -59,7 +59,7 @@ def load_word_list(file_path):
                     '`U': 'Ù',
                     '\\,c': 'ç',
                     '\\,C': 'Ç',
-                    '\oe': 'œ',
+                    '\\oe': 'œ',
                 }
                 for code, char in umlaut_map.items():
                     text = text.replace(code, char)
