@@ -25,6 +25,7 @@ definition2
 - `R`: Previous word
 - `Q`: Exit review mode
 - `C`: Close application
+- `G`: Go to some word directly
 
 ## How to Run
 1. Direct method:
@@ -33,5 +34,5 @@ python word_start.py
 ```
 
 2. Windows users:
-	- Use the included `Go.bat` file (adjust Python path if needed)
+	- Use the included `Go.bat` file (You should adjust its content to your Python path)
 	- Double-click to launch

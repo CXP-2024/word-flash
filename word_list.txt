@@ -450,7 +450,7 @@ neutre
 neutral
 jeudi
 周四
-chanteur/chanteuse
+un chanteur/une chanteuse
 歌手
 neuf
 nine
