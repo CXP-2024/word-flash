@@ -28,8 +28,7 @@ definition2
 - `G`: Go to some word directly
 
 ## How to Run
-Some library you should install first:
-Using:
+In advance, you should install the `tqdm` library by running
 ```bash
 pip install tqdm
 ```
@@ -52,25 +51,21 @@ or
 python3 word_start.py
 ```
 
-### 2. Windows users:
- Use the included `Go.bat` file (You should adjust its content to your Python path)
- Double-click to launch
+### 2. For Windows:
+ Double click the `Go.bat` file to start the application. Make sure you have adjusted the path in the `Go.bat` file to your python interpreter path.
 
 ### 3. For MacOS:
-- Maybe you should create a virtual enivrement if you have a lot of pythons:
-Run this command in your terminal of VScode:
+You may want to create a virtual environment if you have more than one python binary files installed.
+- Run this command in terminal
   ```bash
    python3 -m venv .venv
-   which python3
+   which python3 # should show .venv/bin/python, 
+       # otherwise try python/pip instead of python3/pip3
    pip3 install tqdm
   ```
-  If it shows .venv/bin/python, then it works;
-
-  If it doesn't work, use python/pip instead of python3/pip3
-
 - Then run:
   ```bash
    chmod +x run.command
   ```
 
-- Then you can just double click it to run it in MacOS
+- Then simply double click the `run.command` file to start the application.
