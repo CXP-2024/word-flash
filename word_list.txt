@@ -37,7 +37,7 @@ my
 ami
 friend
 mardi
-Tuesday
+周二
 la salade
 sala
 ma femme
@@ -502,9 +502,113 @@ visiter
 visit
 musée
 museum
-huit 
-eight
+huit (accent!)
+eight [t]
 six
 six
 enthousiaste
 enthusiastic
+muet
+mute
+aspir\'e
+吸气
+habiter
+inhabit(live)
+vin
+wine
+sympathique
+友好的
+pain
+面包
+J'ai faim/soif
+我饿/渴了
+Cath\'edrale Notre-Dame de Paris
+巴黎圣母院
+salle de bains
+浴室
+bien
+well
+tr\'es
+太(very)
+mucisien
+(男)音乐家
+lundi
+周一
+mercredi
+周三
+vendredi
+周五
+samedi
+周六
+dimanche
+周日
+parfum
+perfume
+quelqu'un
+somebody
+chanter (Je chante)
+唱歌
+le temps
+time
+ensemble
+together
+maintenant (accent!)
+now [t^h]
+nom
+全名/姓
+pr\'enom
+名
+et (accent!)
+and [e]
+ravi de nous rencontrer
+nice to meet you
+homme
+man
+ann\'ee
+年
+hier
+昨天
+demain
+明天
+proverbe
+proverb
+cahier
+笔记本
+un \oeil
+（一只）眼睛
+les yeux
+眼睛
+travail/traviller
+(n./v.) work
+famille
+family
+fille
+女儿/女孩
+Asseyeez-vous, sil'vous pla^it
+您请坐
+louer
+租赁
+oui
+yes
+non
+no
+chouette
+猫头鹰
+le tramway
+tram
+au revoir
+再见
+soir
+晚上
+fruit
+fruit
+juin
+June
+C'est l'automne
+It's autumn
+montagne
+山，山峰(mountain)
+campagne
+乡村
+le champagne
+香槟酒
