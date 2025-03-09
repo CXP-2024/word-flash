@@ -578,8 +578,8 @@ un \oeil
 （一只）眼睛
 les yeux
 眼睛
-travail/traviller
-(n./v.) work
+travail/traviller (accent!)
+(n./v.) work (注意近音[j]的摩擦)
 famille
 family
 fille
@@ -612,3 +612,5 @@ campagne
 乡村
 le champagne
 香槟酒
+prendre enchant\'e rencontrer (accent!)
+(非词尾en发[ãn])
