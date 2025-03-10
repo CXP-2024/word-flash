@@ -1,53 +1,53 @@
 cadeau
-礼物
+(n.m.) 礼物
 g^ateau
-蛋糕
+(n.m.) 蛋糕
 Bonjour
-你好（白天使用）,早安
+(n.m.) 你好（白天使用）,早安
 Bonsoir
-晚上好
+(n.m.) 晚上好
 Salut
-嗨（非正式）
+(n.m.) 嗨（非正式）
 Merci
-谢谢
+(n.m.) 谢谢
 S'il vous pla^it
-请（正式）
+(n.m.) 请（正式）
 S'il te pla^it
-请（非正式）
+(n.m.) 请（非正式）
 Okay
-Ok
+(n.m.) Ok
 mon p`ere 
-my father
+(n.m.) my father
 ma m`ere  
-my mother
+(n.f.) my mother
 Fr`ere  
-brother
+(n.m.) brother
 Harry H\'eros
-name
+(n.m.)
 Balzac
-name
+(n.m.)
 maman
-mom
+(n.f.) mom
 papa
-dad
+(n.m.) dad
 date
-date
+(n.f.) date
 ma
 my
 ami
-friend
+(n.m.) friend
 mardi
-周二
+(n.m.) 周二
 la salade
-sala
+(n.f.) sala
 ma femme
-my wife
+(n.f.) my wife
 b^ete
-beast
+(n.f.) beast
 F^ete des M`eres
-Mothers' Day
+(n.f.) Mothers' Day
 No"el
-圣诞节
+(n.m.) 圣诞节
 ^etre
 be
 Je suis \'etudiant(e)
@@ -61,11 +61,11 @@ I like ski
 cinq
 five
 coq
-cock
+(n.m.) cock
 parc
-park
+(n.m.) park
 ski
-ski
+(n.m.) ski
 mais
 but
 qui
@@ -73,17 +73,17 @@ who
 quel
 which
 disque
-disk
+(n.m.) disk
 quatre
 four
 P^aques (accent!)
-[pɑk] 复活节
+(n.f.) [pɑk] 复活节
 musique
-music
+(n.f.) music
 un lapin
-a rabbit
+(n.m.) a rabbit
 la Seine
-Seine River
+(n.f.) Seine River
 seize
 sixteen
 onze
@@ -91,51 +91,51 @@ eleven
 douze
 twelve
 ballet
-ballet
+(n.m.) ballet
 ticket
-ticket
+(n.m.) ticket
 forêt
-forest
+(n.f.) forest
 respect (accent!)
-respect
+(n.m.) respect
 Elle
 she
 Elle est belle! / Il est beau!
 She/He is beautiful.
 lit
-bed
+(n.m.) bed
 na"if
 天然的；天真的；幼稚的
 po`eme
-poem
+(n.m.) poem
 café
-cafe
+(n.m.) cafe
 Merci
 Thankyou
 classe
-class
+(n.f.) class
 cr`eme
-cream
+(n.f.) cream
 arbre
-tree
+(n.m.) tree
 la mer (accent !)
-[mεr] sea
+(n.f.) [mεr] sea
 sel
-salt
+(n.m.) salt
 addresse
-address
-Ça va ?
+(n.f.) address
+\,Ca va ?
 Hello
-Ça va bien, merci !
+\,Ca va bien, merci !
 Hello
 été
-summer
+(n.m.) summer
 désole
 sorry
 Je suis désolé(e)
 I'm so sorry
 cinéma
-cinema
+(n.m.) cinema
 parler
 speak
 Vous parlez français ?
@@ -151,45 +151,45 @@ v.t. read
 à 
 in 
 midi
-moon
+(n.m.) moon
 stylo
-钢笔
+(n.m.) 钢笔
 jus
-juice
+(n.m.) juice
 belle
 beautiful girl
 cravate
-领带
+(n.f.) 领带
 christ
-基督
+(n.m.) 基督
 technique
-technique
+(n.f.) technique
 J'esus-Christ (accent!)
-耶稣基督
+(n.m.) 耶稣基督
 ange
-angel
+(n.m.) angel
 garage
-garage
+(n.m.) garage
 gare
-train station
+(n.f.) train station
 légumes
-vegetable
+(n.m.) vegetable
 escargot
-snail
+(n.m.) snail
 village
-village
+(n.m.) village
 fromage
-cheese
+(n.m.) cheese
 gymnase
-gym
+(n.m.) gym
 baguette
-棍子面包
+(n.f.) 棍子面包
 fatigué
 tired
 examen
-exam
+(n.m.) exam
 exercise
-exercise
+(n.m.) exercise
 exact (accent!)
 exact
 inexact
@@ -197,75 +197,75 @@ inexact
 allô ?
 喂!(电话用语)
 hôpital
-hospital
+(n.m.) hospital
 drôle
 滑稽的， 有趣的， 好笑的
 côté
-海岸
+(n.m.) 海岸
 azur
-天蓝色
+(n.m.) 天蓝色
 la Côte d'Azur
-蓝色海岸
+(n.f.) 蓝色海岸
 aujourd'hui
 today
 chapeau
-hat
+(n.m.) hat
 bureau
-office
+(n.m.) office
 l'eau
-water
+(n.f.) water
 rose
-rose
+(n.f.) rose
 rosé
 淡粉红色的
 vin rosé
-桃红葡萄酒
+(n.m.) 桃红葡萄酒
 alors
 那么; then
 votre
 your(s)
 chocolat
-chocolate
+(n.m.) chocolate
 forum album (accent!)
-forum album
+(n.m.) forum album
 chose
-things
+(n.f.) things
 oser
 敢作某事
 boulot
-work/job
+(n.m.) work/job
 dodo
-sleep
+(n.m.) sleep
 vélo
-bicycle
+(n.m.) bicycle
 mot
-word
+(n.m.) word
 kilo
-kg
+(n.m.) kg
 voir
 看见， 看到
 fille (accent!)
-daughter
+(n.f.) daughter
 faire
 do
 flame
-.
+(n.f.) .
 vif
 活的, 有生命的
 effet
-[efε] effect
+(n.m.) [efε] effect
 offre
-提供； 提议， 提出
+(n.f.) 提供； 提议， 提出
 physique
-physical
+(n.f.) physical
 photo
-photo
+(n.f.) photo
 philosophe
-philosophe
+(n.m.) philosophe
 Géométrie analytique
-[ʒeɔmetri] you know
+(n.f.) [ʒeɔmetri] you know
 Mathématicien
-Mathematician
+(n.m.) Mathematician
 vous
 you s
 nous
@@ -287,21 +287,21 @@ where
 ou
 or
 goût
-味道
+(n.m.) 味道
 goûter
 尝味
 Nice
 some place
 rue
-road
+(n.f.) road
 jupe
-半身裙
+(n.f.) 半身裙
 pas du tout
 一点儿也不, 一点儿也没有 （Not at all）
 vive
 万岁
 pyramide
-pyramid
+(n.f.) pyramid
 plat
 平坦的
 préférer
@@ -309,17 +309,17 @@ prefer
 présent(e)
 present
 pape
-罗马教皇
+(n.m.) 罗马教皇
 une biére
-啤酒
+(n.f.) 啤酒
 Kilian Mbappé
 Mbappé
 la tour Eiffel
-Eiffel Tower
+(n.f.) Eiffel Tower
 journaliste
-journalist
+(n.m.)/(n.f.) journalist
 veste
-上装, (短)外套；上衣
+(n.f.) 上装, (短)外套；上衣
 aller
 [ale] go
 bon
@@ -329,57 +329,57 @@ bas
 pas
 adv. 不， 没有
 thè
-茶叶
+(n.m.) 茶叶
 beau
 漂亮的，晴朗的
 dé
-骰子
+(n.m.) 骰子
 coût
-成本， 费用， 价格， 价钱
+(n.m.) 成本， 费用， 价格， 价钱
 quitte
 偿清了的
 guide
-guide
+(n.m.) guide
 couple
-couple
+(n.m.) couple
 Lucie
-name
+(n.m.)
 chouchou
-宝贝
+(n.m.) 宝贝
 dû (devoir)
 欠, 受恩于
 août  (accent!)
-[u(t)] August
+(n.m.) [u(t)] August
 tu  (accent!)
 you
 métro
-subway
+(n.m.) subway
 robe
-连衫裙
+(n.f.) 连衫裙
 facile
 easy
 vivre
 v. 活着； 活， 生存
 chef
-首脑
+(n.m.) 首脑
 wagon
-车厢, 大量
+(n.m.) 车厢, 大量
 cidre
-apple wine
+(n.m.) apple wine
 succès [syksε]
-success
+(n.m.) success
 accent
-accent
+(n.m.) accent
 accident
-accident
+(n.m.) accident
 taxi
-taxi
+(n.m.) taxi
 texte
-text
+(n.m.) text
 Pardon
-Pardon
+(n.m.) Pardon
 les \'Etats-Unis
-United States
+(n.m.) United States
 René Descartes
 勒内·笛卡尔
 Je pense, donc je suis
@@ -419,39 +419,39 @@ Le français est difficile.
 Aujourd'hui, il fait beau.
 今天天气好。
 gouvernement
-government
+(n.m.) government
 entreprise
-enterprise
+(n.f.) enterprise
 menu
-套餐
+(n.m.) 套餐
 du riz
-米饭
+(n.m.) 米饭
 venir
 come
 fen^etre
-窗户
+(n.f.) 窗户
 secret
-secret
+(n.m.) secret
 s\oeur
-姐妹
+(n.f.) 姐妹
 heure
-hour
+(n.f.) hour
 deux
 two
 feu
-火
+(n.m.) 火
 jeu
-游戏
+(n.m.) 游戏
 v\oeu
-愿望
+(n.m.) 愿望
 bleu
-blue
+(n.m.) blue
 neutre
 neutral
 jeudi
-周四
+(n.m.) 周四
 un chanteur/une chanteuse
-歌手
+(n.m.)/(n.f.) 歌手
 neuf
 nine
 dix
@@ -459,13 +459,13 @@ ten
 grand
 高大的
 la Chine
-中国
+(n.f.) 中国
 chinois
-中国人
+(n.m.) 中国人
 vivre
 生活
 shampoing
-shampoo
+(n.m.) shampoo
 Bonne journée!
 祝你度过愉快的一天！
 avoir
@@ -479,29 +479,29 @@ nager
 J'aime nager
 我喜欢游泳。
 gar\,con
-小男孩
+(n.m.) 小男孩
 Je pense que ...
 I think that ...
 profession
-职业
+(n.f.) 职业
 descendre
 下（楼，车）
 attention
-当心
+(n.f.) 当心
 disparition
-消失
+(n.f.) 消失
 diplomacie
-diplomacy
+(n.f.) diplomacy
 bizarre
 bizarre
 bise
-亲吻
+(n.f.) 亲吻
 faire la bise
 贴面礼
 visiter
 visit
 musée
-museum
+(n.m.) museum
 huit (accent!)
 eight [t]
 six
@@ -515,75 +515,75 @@ aspir\'e
 habiter
 inhabit(live)
 vin
-wine
+(n.m.) wine
 sympathique
 友好的
 pain
-面包
+(n.m.) 面包
 J'ai faim/soif
 我饿/渴了
 Cath\'edrale Notre-Dame de Paris
-巴黎圣母院
+(n.f.) 巴黎圣母院
 salle de bains
-浴室
+(n.f.) 浴室
 bien
 well
 tr\'es
 太(very)
 mucisien
-(男)音乐家
+(n.m.) (男)音乐家
 lundi
-周一
+(n.m.) 周一
 mercredi
-周三
+(n.m.) 周三
 vendredi
-周五
+(n.m.) 周五
 samedi
-周六
+(n.m.) 周六
 dimanche
-周日
+(n.m.) 周日
 parfum
-perfume
+(n.m.) perfume
 quelqu'un
 somebody
 chanter (Je chante)
 唱歌
 le temps
-time
+(n.m.) time
 ensemble
 together
 maintenant (accent!)
 now [t^h]
 nom
-全名/姓
+(n.m.) 全名/姓
 pr\'enom
-名
+(n.m.) 名
 et (accent!)
 and [e]
 ravi de nous rencontrer
 nice to meet you
 homme
-man
+(n.m.) man
 ann\'ee
-年
+(n.f.) 年
 hier
 昨天
 demain
 明天
 proverbe
-proverb
+(n.m.) proverb
 cahier
-笔记本
+(n.m.) 笔记本
 un \oeil
-（一只）眼睛
+(n.m.) （一只）眼睛
 les yeux
-眼睛
+(n.m.) 眼睛
 travail/traviller (accent!)
-(n./v.) work (注意近音[j]的摩擦)
+(n.m.)/v. work (注意近音[j]的摩擦)
 famille
-family
+(n.f.) family
 fille
-女儿/女孩
+(n.f.) 女儿/女孩
 Asseyeez-vous, sil'vous pla^it
 您请坐
 louer
@@ -593,24 +593,58 @@ yes
 non
 no
 chouette
-猫头鹰
+(n.f.) 猫头鹰
 le tramway
-tram
+(n.m.) tram
 au revoir
 再见
 soir
-晚上
+(n.m.) 晚上
 fruit
-fruit
+(n.m.) fruit
 juin
-June
+(n.m.) June
 C'est l'automne
 It's autumn
 montagne
-山，山峰(mountain)
+(n.f.) 山，山峰(mountain)
 campagne
-乡村
+(n.f.) 乡村
 le champagne
-香槟酒
+(n.m.) 香槟酒
 prendre enchant\'e rencontrer (accent!)
 (非词尾en发[ãn])
+printemps
+(n.m.) 春天
+rencontre
+(n.f.) 相遇
+appeler
+call
+s'appeler
+名字是
+Vous vous appelez comment?
+您叫什么名字？(您管自己叫啥？)
+comment
+how
+danseur/danseuse
+dancer
+acteur/actrice
+actor/actress
+m\'edecin
+(n.m.)/(n.f.)医生
+allemand
+德国人
+les Champs-\'Elys\'ees
+香榭丽舍大街
+mai
+May
+monsieur
+mister
+Tiens!
+拿着！/你看！
+\,ca
+(口)这
+conna^itre
+know
+Je connais!
+I know!
