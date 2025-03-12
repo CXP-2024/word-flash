@@ -620,7 +620,7 @@ rencontre
 (n.f.) 相遇
 appeler
 call
-s'appeler
+s'appeler  je m'appeller  ju t'appeller  il/elle s'appeller
 名字是
 Vous vous appelez comment?
 您叫什么名字？(您管自己叫啥？)
@@ -638,13 +638,13 @@ les Champs-\'Elys\'ees
 香榭丽舍大街
 mai
 May
-monsieur
-mister
+monsieur (accent!)
+mister [məsjø]
 Tiens!
 拿着！/你看！
 \,ca
 (口)这
 conna^itre
 know
-Je connais!
+Je connais!  Tu connais  Il connaît  Ils connaissent  Nous connaissons  Vous connaissez
 I know!
