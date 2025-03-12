@@ -122,7 +122,7 @@ la mer (accent !)
 (n.f.) [mεr] sea
 sel
 (n.m.) salt
-addresse
+adresse
 (n.f.) address
 \,Ca va ?
 Hello
@@ -264,8 +264,8 @@ philosophe
 (n.m.) philosophe
 Géométrie analytique
 (n.f.) [ʒeɔmetri] you know
-Mathématicien
-(n.m.) Mathematician
+mathématicien/mathématicienne
+(n.m.)/(n.f.) mathematician
 vous
 you s
 nous
@@ -513,7 +513,7 @@ mute
 aspir\'e
 吸气
 habiter
-inhabit(live)
+inhabit
 vin
 (n.m.) wine
 sympathique
@@ -648,3 +648,69 @@ conna^itre
 know
 Je connais!
 I know!
+math\'ematiques
+(n.f.pl.) mathematics
+les maths/la math
+math
+dactylographe(dactylo)
+(n.m.)/(n.f.)打字员
+les nombres
+the numbers
+trois
+three
+sept (accent!)
+seven [sεt]
+treize
+thirteen
+quatorze
+fourteen
+quinze
+fifteen
+dix-sept
+seventeen
+dix-huit
+eighteen
+dix-neuf
+nineteen
+vingt
+twenty
+J'habite 
+boulevard
+cr^epe
+可丽饼
+Turque
+Turkish
+la cuisine chinoise
+中餐
+J'habite rue Shuangqing
+我住在双清路
+une ville
+城市
+J'habite `a Beijing/P\'ekin
+I live in Beijing
+l'Allemagne
+德国
+la Belgique
+比利时
+l'Espagne
+西班牙
+la Gr`ece
+希腊
+les Pays-Bas
+荷兰
+J'habite en Chine/au Canada/aux \'Etats-Unis
+I live in China/Canada/USA
+anglais
+英语
+arabe
+阿拉伯语
+l'Italie
+意大利
+l'Angleterre
+英国
+de 
+of
+v\'ehicule
+(n.m.)车辆
+\'epeler
+拼写
