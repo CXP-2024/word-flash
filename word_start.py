@@ -160,7 +160,7 @@ def run():
 def main():
     while True:
         print(
-            "👋 \033[1;3;34mWelcome to Word Flash! <All rights reserved>\n\033[1;3;35mWhen you're reviewing, some rules you should know: \nEnter: show the next word\nL: show the definition\nG: Go to i-th some word you want\nC: exit the entire program; \nQ: Quitting review session\033[0m"
+            "👋 \033[1;3;34mWelcome to Word Flash! <All rights reserved>\n\033[1;3;35mWhen you're reviewing, some rules you should know: \nEnter: show the next word\nR: show the previous word\nL: show the definition\nG: Go to i-th some word you want\nC: exit the entire program; \nQ: Quitting review session\033[0m"
         )
         run()
         print("\n👋 You finished it! Chouchou, do you want to try again? (y/n)")
