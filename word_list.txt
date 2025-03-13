@@ -620,7 +620,7 @@ rencontre
 (n.f.) 相遇
 appeler
 call
-s'appeler  je m'appeller  ju t'appeller  il/elle s'appeller
+s'appeler  je m'appeller  tu t'appeller  il/elle s'appeller
 名字是
 Vous vous appelez comment?
 您叫什么名字？(您管自己叫啥？)

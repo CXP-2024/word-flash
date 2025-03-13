@@ -90,13 +90,25 @@ def run():
     if not word_list:
         print("no valid word list found")
         return
+    print("👋\033[1;3;34mYou can choose the reviewing mode now: word/definition (w/d)\033[0m")
+    while True:
+        mode = getch().lower()
+        if mode in ("w", "d"):
+            break
+        else:
+            print("\033[1;3;31mPlease press w or d\033[0m")
+            if mode == "c":
+                sys.exit(0)
 
     with tqdm.tqdm(
         total=len(word_list), desc="📖 \033[1;3;33mReviewing\033[0m", unit="word"
     ) as pbar:
         current_index = 0
         while current_index < len(word_list):
-            word, definition = word_list[current_index]
+            if mode == "w":
+                word, definition = word_list[current_index]
+            else:
+                definition, word = word_list[current_index]
 
             # Display current word (using ANSI escape codes for color)
             tqdm.tqdm.write(f"\n\033[1;3;32mCurrent: {word}\033[0m")
@@ -148,9 +160,8 @@ def run():
 def main():
     while True:
         print(
-            "👋 \033[1;3;34mWelcome to Word Flash! <All privacy reserved>\n\033[1;3;35mWhen you're reviewing, some rules you should know: \nEnter: show the next word\nL: show the definition\nG: Go to i-th some word you want\nC: exit the entire program; \nQ: Quitting review session\nIf you're ready, press the Enter key:\033[0m"
+            "👋 \033[1;3;34mWelcome to Word Flash! <All rights reserved>\n\033[1;3;35mWhen you're reviewing, some rules you should know: \nEnter: show the next word\nL: show the definition\nG: Go to i-th some word you want\nC: exit the entire program; \nQ: Quitting review session\033[0m"
         )
-        input()
         run()
         print("\n👋 You finished it! Chouchou, do you want to try again? (y/n)")
         while True:
