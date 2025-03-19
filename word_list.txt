@@ -23,7 +23,7 @@ ma m`ere
 Fr`ere  
 (n.m.) brother
 h\'eros/h\'ero"ine
-(n.m./n.f.) hero
+(n.m.)/(n.f.) hero
 Balzac
 巴尔扎克
 maman
@@ -35,7 +35,7 @@ date
 ma
 my
 un ami/une amie
-(n.m./n.f.) friend
+(n.m.)/(n.f.) friend
 mardi
 (n.m.) 周二
 la salade
@@ -265,7 +265,7 @@ philosophe
 Géométrie analytique
 (n.f.) [ʒeɔmetri] you know
 mathématicien/mathématicienne
-(n.m./n.f.) mathematician
+(n.m.)/(n.f.) mathematician
 vous
 you s
 nous
@@ -451,7 +451,7 @@ neutral
 jeudi
 (n.m.) 周四
 un chanteur/une chanteuse
-(n.m./n.f.) 歌手
+(n.m.)/(n.f.) 歌手
 neuf
 nine
 dix
@@ -631,7 +631,7 @@ dancer
 acteur/actrice
 actor/actress
 m\'edecin
-(n.m.)/(n.f.)医生
+(n.m./n.f.)医生
 allemand
 德国人
 les Champs-\'Elys\'ees
@@ -653,7 +653,7 @@ math\'ematiques
 les maths/la math
 math
 dactylographe(dactylo)
-(n.m.)/(n.f.)打字员
+(n.m./n.f.)打字员
 les nombres
 the numbers
 trois
@@ -719,7 +719,7 @@ twenty-one
 trente
 thirty
 l'Universit\'e Tsinghua
-清华大学
+(n.f.) 清华大学
 district de Haidian
 海淀区
 d\'eg^ats
@@ -739,10 +739,10 @@ I live in No. 10, Mouffetrad road
 pote
 (口) 朋友
 copain/copine
-(n.m./n.f.) 朋友，恋人
+(n.m.)/(n.f.) 朋友，恋人
 petit ami/petite amie
 男朋友/女朋友
-le quartier
+un quartier
 (n.m.) 街区
 Rendez-vous
 (n.m.) 相约
@@ -758,3 +758,33 @@ aux
 `a les
 Mesdames
 (pl.) madame
+un croquis
+(n.m.) 草图
+une signature
+(n.f.) signature
+une place
+(n.f.) 广场
+quarante
+fourty
+cinquante
+fifty
+soixante
+sixty
+sympathie
+(n.f.) 好感，同情
+ce
+this
+Qui est-ce?
+Who is this?
+Ce sont 
+They are 
+langue
+language
+la Terre
+the Earth
+la lune 
+the Moon 
+comprendre
+懂得，理解
+Tu comprends tr`es bien
+你很懂啊
