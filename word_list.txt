@@ -1,4 +1,4 @@
-cadeau
+un cadeau
 (n.m.) 礼物
 g^ateau
 (n.m.) 蛋糕
@@ -245,7 +245,7 @@ kilo
 voir
 看见， 看到
 fille (accent!)
-(n.f.) daughter
+(n.f.) 女儿/女孩
 faire
 do
 flame
@@ -257,8 +257,8 @@ effet
 offre
 (n.f.) 提供； 提议， 提出
 physique
-(n.f.) physical
-photo
+(n.f.) physics
+une photo
 (n.f.) photo
 philosophe
 (n.m.) philosophe
@@ -544,8 +544,10 @@ dimanche
 (n.m.) 周日
 parfum
 (n.m.) perfume
-quelqu'un
+quelqu'un/qqn.
 somebody
+quelque chose/qqch.
+something
 chanter (Je chante)
 唱歌
 le temps
@@ -572,7 +574,7 @@ demain
 明天
 proverbe
 (n.m.) proverb
-cahier
+un cahier
 (n.m.) 笔记本
 un \oeil
 (n.m.) （一只）眼睛
@@ -582,8 +584,6 @@ travail/traviller (accent!)
 (n.m.)/v. work (注意近音[j]的摩擦)
 famille
 (n.f.) family
-fille
-(n.f.) 女儿/女孩
 Asseyeez-vous, sil'vous pla^it
 您请坐
 louer
@@ -788,3 +788,41 @@ comprendre
 懂得，理解
 Tu comprends tr`es bien
 你很懂啊
+quatre-vingts
+eighty (four twenties)
+cent 
+hundred
+^Etes-vous italien?/Est-ce que vous ^etes italien?
+are you an Italian?
+Qu'est-ce que c'est?/C'est quoi?
+What's this? [kεs-ke-sε]
+du (de l')
+de le
+des 
+de les
+Il ne travaille pas.
+He doesn't work.
+Elle ne chante pas bien.
+She doesn't sing well.
+un film
+(n.m.) film
+un journal
+(n.m.) newspaper
+un enfant
+(n.m.) child
+joli 
+漂亮的
+une fleur
+(n.f.) flower
+spectateur/spectatrice
+(n.m.)/(n.f.) spectator
+Il ne parle pas beaucoup.
+He doesn't speak much.
+Je voudrais parler `a Sylvie.
+I want to speak to Sylvie. (通话)
+\'ecouter
+listen
+\'ecoute de la musique
+listen to music
+savoir
+知道，掌握
