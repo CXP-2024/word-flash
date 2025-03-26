@@ -37,7 +37,7 @@ my
 un ami/une amie
 (n.m.)/(n.f.) friend
 mardi
-(n.m.) 周二
+(n.m.) 周二 (火 Mars)
 la salade
 (n.f.) sala
 ma femme
@@ -78,7 +78,7 @@ quatre
 four
 P^aques (accent!)
 (n.f.) [pɑk] 复活节
-musique
+la musique
 (n.f.) music
 un lapin
 (n.m.) a rabbit
@@ -449,7 +449,7 @@ bleu
 neutre
 neutral
 jeudi
-(n.m.) 周四
+(n.m.) 周四 (木 Jupiter)
 un chanteur/une chanteuse
 (n.m.)/(n.f.) 歌手
 neuf
@@ -533,15 +533,15 @@ tr\'es
 mucisien
 (n.m.) (男)音乐家
 lundi
-(n.m.) 周一
+(n.m.) 周一 (月 Lune)
 mercredi
-(n.m.) 周三
+(n.m.) 周三 (水 Mercure)
 vendredi
-(n.m.) 周五
+(n.m.) 周五 (金 V\'enus)
 samedi
-(n.m.) 周六
+(n.m.) 周六 (土 Saturne)
 dimanche
-(n.m.) 周日
+(n.m.) 周日 (日 Soleil)
 parfum
 (n.m.) perfume
 quelqu'un/qqn.
@@ -826,3 +826,47 @@ listen
 listen to music
 savoir
 知道，掌握
+c\'el`ebre
+celebrated
+en mars/au mois de mars
+in March
+janvier
+January
+février
+February
+mars
+March
+juillet
+July
+septembre
+September
+octobre
+October
+novembre
+November
+décembre
+December
+Je vous en prie/De rien
+不客气
+prier
+pray
+un disque
+(n.m.) disk
+un roman
+(n.m.) fiction
+une histoire
+history/story
+regarder
+look
+regarder la t\'el\'evision
+watch TV 
+lire un journal 
+read newspaper
+\'ecrire
+write
+\'ecrire un roman
+write a novel
+J'\'ecris une lettre `a mon p`ere.
+I'm writing a letter to my father.
+avec
+with
