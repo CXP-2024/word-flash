@@ -860,6 +860,8 @@ regarder
 look
 regarder la t\'el\'evision
 watch TV 
+t\'el\'evision/t\'el\'e
+(n.f.) TV
 lire un journal 
 read newspaper
 \'ecrire
@@ -870,3 +872,29 @@ J'\'ecris une lettre `a mon p`ere.
 I'm writing a letter to my father.
 avec
 with
+rester
+停留
+chez
+在……家里
+on
+we（但是三单）
+Qu'est-ce qu'on fait ?
+What will we do?
+Vous faire du sport ?
+你运动吗？
+comme
+as 
+faire un match du football
+to play a football match 
+faire une partie de tennis
+打一场网球比赛
+aussi
+also
+faire de la natation
+游泳
+libre
+有空
+occup\'e 
+occupied
+\'epuis\'e
+筋疲力尽的
