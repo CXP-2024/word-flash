@@ -598,8 +598,6 @@ le tramway
 (n.m.) tram
 au revoir
 再见
-soir
-(n.m.) 晚上
 fruit
 (n.m.) fruit
 juin
@@ -613,7 +611,7 @@ campagne
 le champagne
 (n.m.) 香槟酒
 prendre enchant\'e rencontrer (accent!)
-(非词尾en发[ãn])
+(非词尾en发[ã])
 printemps
 (n.m.) 春天
 rencontre
@@ -949,7 +947,7 @@ at the swimming pool
 inviter
 invite 
 d^iner 
-have dinner 
+(v.) have dinner/(n.m.) dinner
 venir de 
 come from 
 Je viens de Chine.
@@ -968,3 +966,115 @@ le Nouvel An
 the New Year
 beaucoup 
 很多，非常
+dans 
+in
+... et c'est aussi ...
+也是
+Moi/toi aussi
+Me/you too
+trop
+太，程度大于tr`es
+mais oui 
+当然 
+s^ur 
+sure 
+petit 
+小的
+aimable 
+可爱的
+d\'ecouvrir
+discover
+d\'ecouvrir des restaurant
+探店
+prendre 
+take
+prendre des kilos 
+长胖
+en TGV
+坐TGV (Train à Grande Vitesse)
+froid
+冷的，冷淡的
+Quelle heure est-il ?/Vous avez l'heure, s'il vous pla^it ?
+What time is it?
+Il est 6 heures.
+It's 6 o'clock.
+Vous avez du temps/un moment ?
+Do you have time?
+Il est midi/minuit.
+It's midday/midnight.
+le matin 
+morning
+l'apr`es-midi
+afternoon
+la soir\'ee/le soir 
+evening
+la nuit
+night
+dix heures et quart/demie
+十点一刻/半 
+onze heures moins le quart 
+差一刻十一点（十点三刻）
+dix heures une 
+10：01
+l'\'et\'e 
+summer 
+l'hiver
+winter
+arriver
+arrive 
+en avance
+in advance
+`a l\'heure 
+on time 
+en retard
+late
+commencer
+start(commence) 
+Je commence le travail `a 8 heures.
+I start my work at 8 o'clock.
+commencer `a travailler 
+start to work
+finir
+finish
+choisir
+choose
+applaudir
+applaude
+Je finis la le\,con `a 8 heures.
+I finish the lesson at 8 o'clock.
+finir de travailler 
+finish working
+un horaire 
+(n.m.) 时刻表
+un emploi du temps 
+(n.m.) 时间表
+un agenda (accent!)
+(n.m.) 记事本，日程本
+un r\'eveil 
+(n.m.) 闹钟
+r\'eveiller
+叫醒
+une montre
+(n.m.) 手表
+montrer
+show 
+une pendule
+(n.m.) 挂钟
+pendre 
+悬挂
+une biblioth\'eque 
+(n.f.) library
+un/une dentiste
+dentist 
+un rendez-vos 
+(n.m.) 约会；预约
+d\'ejeuner
+(n.m.) lunch/(v.) have lunch
+un petit-d\'ejeuner 
+(n.m.) breakfast
+devant
+before
+derri`ere 
+after 
+bonne nuit 
+good night
