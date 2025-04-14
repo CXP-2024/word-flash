@@ -211,7 +211,7 @@ today
 chapeau
 (n.m.) hat
 bureau
-(n.m.) office
+(n.m.) 办公室；办公桌
 l'eau
 (n.f.) water
 rose
@@ -1073,8 +1073,60 @@ d\'ejeuner
 un petit-d\'ejeuner 
 (n.m.) breakfast
 devant
-before
+in front of
 derri`ere 
 after 
 bonne nuit 
 good night
+jouer 
+play
+entrer 
+enter 
+la salle de classe
+(n.f.) 教室
+J'entre dans la classe.
+I enter the classroom.
+maison 
+(n.f.) 房屋
+sortir
+出去，离开
+Je sors de la classe à midi.
+I left the classroom at noon.
+partir
+启程，出发
+Je pars de chez moi `a 6 heures du matin.
+I leave home at 6 o'clock in the morning.
+partir pour/`a 
+leave for
+arriver de 
+arrive from 
+arriver `a 
+arrive at
+une affiche 
+(n.f.) 海报
+retourne 
+return 
+derri`ere 
+behind
+jardin 
+garden
+avoir rendez-vous 
+有约
+Tu es libre maintenant ?
+Are you free now? 
+Pas maintenant 
+Not now 
+rentrer 
+返回（起点），回（家）
+rentret `a la maison/chez moi 
+回家
+pouvoir
+can 
+lentement 
+(adv.) 慢
+vouloir
+want 
+avec plaisir
+with pleasure
+observer
+observe
