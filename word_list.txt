@@ -584,7 +584,7 @@ travail/traviller (accent!)
 (n.m.)/v. work (注意近音[j]的摩擦)
 famille
 (n.f.) family
-Asseyeez-vous, sil'vous pla^it
+Asseyez-vous, sil'vous pla^it
 您请坐
 louer
 租赁
@@ -673,7 +673,9 @@ nineteen
 vingt
 twenty
 J'habite 
+I live in
 boulevard
+大道
 cr^epe
 可丽饼
 Turque
@@ -742,8 +744,6 @@ petit ami/petite amie
 男朋友/女朋友
 un quartier
 (n.m.) 街区
-Rendez-vous
-(n.m.) 相约
 oc\'ean
 (n.m.) ocean
 savoirs
@@ -853,7 +853,7 @@ un disque
 un roman
 (n.m.) fiction
 une histoire
-history/story
+(n.f.) history/story
 regarder
 look
 regarder la t\'el\'evision
@@ -881,8 +881,8 @@ What will we do?
 Vous faire du sport ?
 你运动吗？
 comme
-as 
-faire un match du football
+as  (作为)
+faire un match de football
 to play a football match 
 faire une partie de tennis
 打一场网球比赛
@@ -1024,7 +1024,7 @@ arriver
 arrive 
 en avance
 in advance
-`a l\'heure 
+`a l'heure 
 on time 
 en retard
 late
@@ -1066,7 +1066,7 @@ une biblioth\'eque
 (n.f.) library
 un/une dentiste
 dentist 
-un rendez-vos 
+un rendez-vous 
 (n.m.) 约会；预约
 d\'ejeuner
 (n.m.) lunch/(v.) have lunch
@@ -1075,7 +1075,7 @@ un petit-d\'ejeuner
 devant
 in front of
 derri`ere 
-after 
+behind
 bonne nuit 
 good night
 jouer 
@@ -1106,8 +1106,6 @@ une affiche
 (n.f.) 海报
 retourne 
 return 
-derri`ere 
-behind
 jardin 
 garden
 avoir rendez-vous 
@@ -1118,7 +1116,7 @@ Pas maintenant
 Not now 
 rentrer 
 返回（起点），回（家）
-rentret `a la maison/chez moi 
+rentrer `a la maison/chez moi 
 回家
 pouvoir
 can 

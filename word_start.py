@@ -119,7 +119,10 @@ def run():
                 key = getch().lower()
                 if key == "l" and not key_pressed:
                     # Display definition with color
-                    tqdm.tqdm.write(f"\033[1;3;36mDefinition: {definition}\033[0m")
+                    if mode == "w":
+                        tqdm.tqdm.write(f"\033[1;3;36mDefinition: {definition}\033[0m")
+                    else:
+                        tqdm.tqdm.write(f"\033[1;3;36mWord: {definition}\033[0m")
                     key_pressed = True
                 elif key in ("\r", "\n"):  # Enter key
                     # Move to next word and update progress
