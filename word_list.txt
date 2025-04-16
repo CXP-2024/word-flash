@@ -1049,7 +1049,7 @@ un horaire
 un emploi du temps 
 (n.m.) 时间表
 un agenda (accent!)
-(n.m.) 记事本，日程本
+(n.m.) 记事本，日程本 [ɛ̃]
 un r\'eveil 
 (n.m.) 闹钟
 r\'eveiller
@@ -1128,3 +1128,51 @@ avec plaisir
 with pleasure
 observer
 observe
+danser le rock 
+跳摇滚
+apprendre
+学习
+Voltaire
+伏尔泰
+Moli`ere 
+莫里哀
+depuis
+since
+J'apprends le fran\,cais depuis trois mois.
+我已学习法语三个月了。
+apprendre `a danser 
+learn to dance
+laisser
+留下，放下
+laisse tomber
+算了吧
+Je vous laisse.
+告辞
+marcher
+散步
+travaux
+(n.m.pl.) travail 
+ralentir
+slow down
+t\'el\'ephone `a qqn.
+phone call sb.
+recevoir
+receive 
+Il ne connaît pas *de* bon médecin.
+He doesn't know any good doctor.
+Il n'y a pas de restaurant rue Mouffetard.
+There's no restaurant on Road Mouffetard.
+une tourn\'ee 
+(n.f.) 巡演
+sur 
+沿着
+ferm\'e 
+closed
+r\'epondre
+respond
+r\'epondre `a qqch.
+respond to sth.
+\'etudier
+study
+la prochaine fois
+下次吧
