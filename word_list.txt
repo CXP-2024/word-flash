@@ -32,14 +32,12 @@ papa
 (n.m.) dad
 date
 (n.f.) date
-ma
-my
 un ami/une amie
 (n.m.)/(n.f.) friend
 mardi
 (n.m.) 周二 (火 Mars)
 la salade
-(n.f.) sala
+(n.f.) salad
 ma femme
 (n.f.) my wife
 b^ete
@@ -56,7 +54,7 @@ aimer
 love
 faire la f^ete
 have a party
-faire du ski
+J'aime le ski
 I like ski
 cinq
 five
@@ -110,8 +108,6 @@ po`eme
 (n.m.) poem
 café
 (n.m.) cafe
-Merci
-Thankyou
 classe
 (n.f.) class
 cr`eme
@@ -125,15 +121,15 @@ sel
 adresse
 (n.f.) address
 \,Ca va ?
-Hello
+How's it going?
 \,Ca va bien, merci !
-Hello
+It's going well, thanks!
 été
 (n.m.) summer
 désole
 sorry
 Je suis désolé(e)
-I'm so sorry
+I'm sorry
 cinéma
 (n.m.) cinema
 parler
@@ -141,23 +137,21 @@ speak
 Vous parlez français ?
 Can you speak French ?
 les
-.
+the (pl.)
 des
-a/an/the
+some
 ces
-these; some
+ce (pl.)
 lire
-v.t. read
+(v.t.) read
 à 
-in 
+at
 midi
-(n.m.) moon
+(n.m.) noon
 stylo
 (n.m.) 钢笔
 jus
 (n.m.) juice
-belle
-beautiful girl
 cravate
 (n.f.) 领带
 christ
@@ -185,7 +179,7 @@ gymnase
 baguette
 (n.f.) 棍子面包
 fatigué
-tired
+fatigue
 examen
 (n.m.) exam
 exercise
@@ -194,8 +188,8 @@ exact (accent!)
 exact
 inexact
 inexact
-allô ?
-喂!(电话用语)
+allô
+喂(电话用语)
 hôpital
 (n.m.) hospital
 drôle
@@ -223,7 +217,7 @@ vin rosé
 alors
 那么; then
 votre
-your(s)
+your (pl.)
 chocolat
 (n.m.) chocolate
 forum album (accent!)
@@ -231,7 +225,7 @@ forum album (accent!)
 chose
 (n.f.) things
 oser
-敢作某事
+(v.) 敢
 boulot
 (n.m.) work/job
 dodo
@@ -249,7 +243,7 @@ fille (accent!)
 faire
 do
 flame
-(n.f.) .
+(n.f.) flame 
 vif
 活的, 有生命的
 effet
@@ -262,12 +256,12 @@ une photo
 (n.f.) photo
 philosophe
 (n.m.) philosophe
-Géométrie analytique
-(n.f.) [ʒeɔmetri] you know
+géométrie analytique
+(n.f.) [ʒeɔmetri] analytic geometry
 mathématicien/mathématicienne
 (n.m.)/(n.f.) mathematician
 vous
-you s
+you (pl.)
 nous
 we
 tu (accent!)
@@ -277,9 +271,9 @@ he/it
 elle
 she/it
 ils
-they (male)
+they (m)
 elles
-they (female)
+they (f)
 je
 I
 où
@@ -291,13 +285,13 @@ goût
 goûter
 尝味
 Nice
-some place
+尼斯
 rue
 (n.f.) road
 jupe
 (n.f.) 半身裙
 pas du tout
-一点儿也不, 一点儿也没有 （Not at all）
+一点儿也不, 一点儿也没有 （not at all）
 vive
 万岁
 pyramide
@@ -312,8 +306,6 @@ pape
 (n.m.) 罗马教皇
 une biére
 (n.f.) 啤酒
-Kilian Mbappé
-Mbappé
 la tour Eiffel
 (n.f.) Eiffel Tower
 journaliste
@@ -327,11 +319,9 @@ good
 bas
 矮的，浅的
 pas
-adv. 不， 没有
+不， 没有
 thè
 (n.m.) 茶叶
-beau
-漂亮的，晴朗的
 dé
 (n.m.) 骰子
 coût
@@ -342,16 +332,12 @@ guide
 (n.m.) guide
 couple
 (n.m.) couple
-Lucie
-(n.m.)
 chouchou
 (n.m.) 宝贝
 dû (devoir)
 欠, 受恩于
 août  (accent!)
 (n.m.) [u(t)] August
-tu  (accent!)
-you
 métro
 (n.m.) subway
 robe
@@ -359,7 +345,7 @@ robe
 facile
 easy
 vivre
-v. 活着； 活， 生存
+(v.) 活着； 活， 生存
 chef
 (n.m.) 首脑
 wagon
@@ -400,14 +386,14 @@ Je suis d'accord.
 我同意
 Coucou!
 嗨！
-Voici quatre tickets.
+Voici quatre billets.
 Here are 4 tickets.
-C'est ... [sε]
-This is ...
+C'est 
+This is [sε]
 C'est bon! 
 不错! 很好!
-C'est qui ? C'est Marie. C'est ma femme.
-Who is she ? ...
+C'est qui ? 
+Who is she ?
 Excusez-moi!/Pardon!
 不好意思！
 Métro, boulot, dodo!
@@ -967,7 +953,7 @@ the New Year
 beaucoup 
 很多，非常
 dans 
-in
+in/into
 ... et c'est aussi ...
 也是
 Moi/toi aussi
@@ -979,7 +965,7 @@ mais oui
 s^ur 
 sure 
 petit 
-小的
+小的；矮的
 aimable 
 可爱的
 d\'ecouvrir
@@ -1176,3 +1162,73 @@ respond to sth.
 study
 la prochaine fois
 下次吧
+la taille 
+(n.f.) 身高
+le poids
+(n.m.) 体型
+gros, grosse
+胖的
+mince, mince
+瘦的
+jeune
+年轻的
+les jeunes
+年轻人
+vieux(vieil), vieille
+年老的
+un/les cheveux
+(n.m.(pl.)) 头发
+blond, blonde
+金发的
+Il est blond.
+他的头发是金色的。
+brun
+棕发的
+roux, rousse
+红发的
+la beaut\'e
+beauty
+beau(bel), belle 
+帅气/漂亮的 
+nouveau(nouvel), nouvelle
+new
+qualit\'e 
+quality（优点）
+d\'efaut
+缺点
+antipathique
+讨厌的
+m\'echant 
+凶恶的
+content
+高兴的
+m\'econtent
+不悦的
+intelligent
+intelligent
+b^ete 
+愚蠢的
+courageux, courageuse
+courageous
+timide
+腼腆的
+int\'eressant
+interesting
+ennuyeux, ennuyeuse
+无聊的
+souriant
+微笑的
+triste
+悲伤的
+de jolies filles
+一群漂亮女孩（des->de）
+d\'esaccord
+不和，矛盾
+cher, ch`ere
+昂贵的；亲爱的，珍重的
+un livre cher 
+一本贵的书
+un cher ami
+一位亲爱的朋友
+Jardin des Tuileries
+杜乐丽公园
