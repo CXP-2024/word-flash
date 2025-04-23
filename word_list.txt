@@ -236,8 +236,6 @@ mot
 (n.m.) word
 kilo
 (n.m.) kg
-voir
-看见， 看到
 fille (accent!)
 (n.f.) 女儿/女孩
 faire
@@ -1151,7 +1149,7 @@ There's no restaurant on Road Mouffetard.
 une tourn\'ee 
 (n.f.) 巡演
 sur 
-沿着
+沿着, 在……上, 关于
 ferm\'e 
 closed
 r\'epondre
@@ -1232,3 +1230,79 @@ un cher ami
 一位亲爱的朋友
 Jardin des Tuileries
 杜乐丽公园
+sauvage
+孤僻的
+esm\'eralda
+(n.f.) emerald
+quasi-
+quasi-
+monde
+(n.m.) 世界
+r^ever 
+做梦, 幻想, 走神
+r^eveur
+爱幻想的
+Tu r^eves
+想得美
+partir en vacances
+go on vacation
+O`u est-ce que tu pars en vacances ?
+Where are you going on vacation?
+l`a-bas
+there 
+ami d'enfance 
+童年朋友
+vraiment
+really
+vrai 
+real 
+Si 
+是（对反问句）
+sur le port 
+在港口
+voir 
+see 
+voir mon ami
+see my friend
+Qu'est-ce qu'il ya dans ce sac ?
+What's in this bag?
+passer le weekend
+过周末
+Comment passes-tu ton weekend ?
+How do you spend your weekend?
+plage
+(n.f.) beach
+Bruxelles
+布鲁塞尔
+visiter un musée
+visit a museum
+Il fait chaud/froid.
+It's hot/cold.
+extraordinaire
+(n.m.) extraordinary
+pays 
+(n.m.) country
+degr\'e 
+(n.m.) degree
+march\'e 
+(n.m.) market
+retour 
+(n.m.) return
+combien
+how much/many
+que/quoi 
+what 
+pourquoi
+why(for what)
+Quelle est votre profession ?
+What do you do?
+Quel est votre nom ?
+What is your name?
+Quels sont vos go^uts ?
+What are your hobbies?
+Quelles langues parlez-vous ?
+What languages do you speak?
+Quelle date sommes-nous ?
+What date is it?
+Quels livres lisez-vous ?
+What books do you read?
