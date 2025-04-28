@@ -570,8 +570,6 @@ famille
 (n.f.) family
 Asseyez-vous, sil'vous pla^it
 您请坐
-louer
-租赁
 oui
 yes
 non
@@ -1149,7 +1147,7 @@ There's no restaurant on Road Mouffetard.
 une tourn\'ee 
 (n.f.) 巡演
 sur 
-沿着, 在……上, 关于
+沿着, on, about
 ferm\'e 
 closed
 r\'epondre
@@ -1306,3 +1304,135 @@ Quelle date sommes-nous ?
 What date is it?
 Quels livres lisez-vous ?
 What books do you read?
+Il/Elle est n\'e(e) le 1er janvier.
+He/She was born on January 1st.
+na^itre
+(v.) 出生 (过去分词 né)
+tous les jours 
+every day
+profiter
+(v.) 利用，享受
+repas
+(n.m.) meal
+Profiter bien de votre repas !
+Enjoy your meal!
+avoir le temps pour qqch.
+有时间做某事
+dire 
+say
+dire bonjour `a qqn.
+say hello to sb.
+tutoyer
+(v.) 用tu称呼
+v\'erit\'e 
+(n.f.) truth
+Mais si !
+当然是
+\'etudier 
+study
+le violon
+(n.m.) violin
+le piano
+(n.m.) piano
+discret
+低调的
+parler de 
+talk about
+un arbre de No\"el
+(n.m.) 圣诞树
+Joyeaux No\"el
+圣诞快乐
+la fen^etre
+(n.f.) window
+le mur 
+(n.m.) wall
+la porte 
+(n.f.) door
+l'escalier 
+(n.m.) stairs
+le toit 
+(n.m.) roof
+le rez-de-chauss\'ee (RDC)
+(n.m.) ground floor
+le premier \^etage
+(n.m.) first floor
+premier, premi\`ere
+1st 
+second/deuxi\`eme
+2nd
+mondial
+世界的
+dernier, derni\`ere
+最后的
+premi`ere classe 
+一等舱/座
+classe affaires
+商务舱/座
+classe \`economique
+经济舱/座
+semaine
+(n.f.) week
+le b^atiment
+(n.m.) building
+un immmeuble 
+(n.m.) 大楼，公寓楼
+ancien
+古老的
+moderne
+现代的
+clair
+明亮的
+sombre
+阴暗的 
+isolé
+偏僻的
+calme
+安静的
+bruyant
+吵闹的
+agr\'eable
+宜人的
+confortable
+comfortable
+pratique
+方便的
+mobilier
+movable
+immobili\'ere 
+不动产
+acheter/achat
+(v./n.m.) 买
+vendre/vente
+(v./n.f.) 卖
+louer/location
+(v./n.f.) 租
+acheter qqch. `a qqn.
+buy sth. for sb.
+propri\'etaire
+(n.m.) 房东
+locataire
+(n.m.) 租客
+vendre qqch. `a qqn.
+sell sth. to sb.
+louer qqch. `a qqn.
+出租某物给某人
+louer qqch. 
+租用某物
+par mois
+per month
+`a louer/vendre 
+for rent/sale
+entre 
+between
+entre chien et loup
+在黄昏时分
+a\'eroport
+(n.m.) airport
+une autoroute
+(n.f.) highway
+au-dessus de
+above
+voiture
+(n.f.) car
+avion
+(n.m.) airplane
