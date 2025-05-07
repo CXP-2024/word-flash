@@ -1436,3 +1436,109 @@ voiture
 (n.f.) car
 avion
 (n.m.) airplane
+ici
+here 
+pr`es de
+near
+loin de
+far from
+l`a-bas 
+there
+ancien 
+old (ancient)
+un meuble
+(n.m.) furniture
+meubl\'e 
+furnished
+franc
+(n.m.) 法郎
+cette 
+(f.) this/that
+ces 
+these/those
+cet homme 
+this man 
+cet \'etudiant(e)
+this student
+`a c^ot\'e de
+next to
+`a gauche de 
+to the left of
+`a droite de
+to the right of
+sous
+under
+au-dessous de
+below
+au bord de
+on the edge of
+ballon
+(n.m.) ball 
+chaise
+(n.f.) chair
+table
+(n.f.) table
+vase 
+(n.m.) vase
+chien
+(n.m.) dog
+lampe
+(n.f.) lamp
+visiter une ville/une exposition/un pays/une maison ancienne/appartement `a louer
+visit a city/exhibition/country/old house/apartment for rent
+une rivi`ere
+(n.f.) river
+un endroit
+(n.m.) place
+^etre `a x kilom\`etres
+is x kilometers away
+une grange
+(n.f.) barn
+les pi`eces de l'appartement
+the rooms of the apartment
+la cuisine
+(n.f.) kitchen
+la salle `a manger
+(n.f.) dining room
+le salon
+(n.m.) living room
+la chambre
+(n.f.) bedroom
+la salle de bains
+(n.f.) bathroom
+bain 
+(n.m.) bath
+les toilettes
+(n.f.pl.) toilet
+faire ma toilette
+洗漱
+le couloir
+(n.m.) corridor
+l'entr\'ee 
+(n.f.) entrance
+un balcon
+(n.m.) balcony
+un fauteuil
+(n.m.) armchair
+un tapis
+(n.m.) carpet
+un lit
+(n.m.) bed
+une armoire
+(n.f.) wardrobe
+une baignoire
+(n.f.) bathtub
+une douche
+(n.f.) shower
+une glace
+(n.f.) mirror
+logement
+(n.m.) housing
+situation
+(n.f.) situation
+type
+(n.m.) type
+de l'agneau
+some lamb
+des champignons
+some mushrooms
