@@ -167,7 +167,7 @@ garage
 gare
 (n.f.) train station
 légumes
-(n.m.) vegetable
+(n.m.pl.) vegetables
 escargot
 (n.m.) snail
 village
@@ -408,8 +408,6 @@ entreprise
 (n.f.) enterprise
 menu
 (n.m.) 套餐
-du riz
-(n.m.) 米饭
 venir
 come
 fen^etre
@@ -504,8 +502,6 @@ sympathique
 友好的
 pain
 (n.m.) 面包
-J'ai faim/soif
-我饿/渴了
 Cath\'edrale Notre-Dame de Paris
 (n.f.) 巴黎圣母院
 salle de bains
@@ -1542,3 +1538,145 @@ de l'agneau
 some lamb
 des champignons
 some mushrooms
+jouer aux cartes
+play cards
+viande
+(n.f.) meat 
+journ\'ee 
+(n.f.) day
+prendre le petit-d\'ejeuner
+have breakfast
+faim
+(n.f.) hunger
+soif
+(n.f.) thirst
+les baguettes
+(n.f.pl.) chopsticks
+tartine
+(n.f.) 面包片
+viennoiserie
+(n.f.) 酥皮点心
+croissant
+(n.m.) 牛角面包
+raisin
+(n.m.) 葡萄
+un jus de fruit frais
+(n.m.) fresh fruit juice
+une boisson chaude
+(n.f.) hot drink
+un sandwich
+(n.m.) sandwich
+roi 
+(n.m.) king
+prince 
+(n.m.) prince
+pauvre
+(n.m.) poor
+avoir faim 
+be hungry
+avoir soif
+be thirsty
+le b\oeuf
+(n.m.) beef
+le veau
+(n.m.) 小牛肉
+le steak
+(n.m.) steak
+steak-frites 
+(n.m.) steak and fries
+la blanquette de veau
+(n.f.) 白汁炖小牛肉
+poulet
+(n.m.) chicken
+les c^otekettes d'agneau grill\'ees
+(n.f.pl.) 烤羊排
+poulet rôti
+(n.m.) 烤鸡
+une pomme de terre
+(n.f.) potato
+le canard
+(n.m.) 鸭肉，鸭子
+canard `a l'orange
+(n.m.) 橙皮烤鸭
+lapin `a la moutarde
+(n.m.) 芥末兔肉
+la carotte
+(n.f.) carrot
+la tomate
+(n.f.) tomato
+le riz
+(n.m.) 米饭，大米
+le haricot (accent!)
+(n.m.) 豆子（嘘h）
+les petits pois
+(n.m.pl.) 豌豆
+le poisson
+(n.m.) fish
+les \oeufs (accent!)
+(n.m.pl.) eggs [ø]
+une omelette
+(n.f.) 煎蛋卷
+le dessert
+(n.m.) dessert
+la glace
+(n.f.) ice cream
+une orange
+(n.f.) orange
+une banane
+(n.f.) banana
+la soupe
+(n.f.) soup
+la soupe de l\'egumes
+(n.f.) vegetable soup
+le potage
+(n.m.) 浓汤，粥
+d\'elicieux
+delicious
+appeler le gar\,con / la serveuse
+call the waiter/waitress
+demander
+ask for
+demander la carte / le menu / le plat du jour
+ask for the menu / ~ / the dish of the day  
+entr\'ee 
+(n.f.) 前菜
+plat
+(n.m.) 主菜
+commander le repas
+order the meal
+Le menu, s'il vous pla^it ?
+The menu, please?
+Quel est le plat du jour ?
+What is the dish of the day?
+Je prends / voudrais / vais prendre / vais commander / pr\'ef`ere ...
+我想要……
+une carafe d'eau
+(n.f.) 一瓶水
+C'est tout.
+That's all.
+boire
+drink
+de la bi\`ere
+(n.f.) beer
+fair une critique
+做评论
+excellent
+excellent
+demander l'addition
+ask for the bill
+L'addition, s'il vous pla^it.
+The bill, please?
+bienvenue
+welcome
+C'est pour combien de personnes ?
+How many people is it for?
+parfait
+perfect
+le pourboire
+(n.m.) 小费
+au choix 
+at choice
+verte
+绿色的
+p^at\'e
+(n.f.) pasta
