@@ -280,8 +280,6 @@ ou
 or
 goût
 (n.m.) 味道
-goûter
-尝味
 Nice
 尼斯
 rue
@@ -1680,3 +1678,107 @@ verte
 绿色的
 p^at\'e
 (n.f.) pasta
+charcuterie
+(n.f.) 熟肉，熟食店
+accueillir
+招待
+h^ate 
+(n.f.) 期待
+J'ai h^ate !
+我很期待
+le canard laqu\'e 
+(n.m.) 烤鸭
+essayer
+try
+r^oti
+roast
+peau 
+(n.f.) skin
+croustillant
+crispy
+utiliser
+use
+J'esp`ere que ...
+I hope that ...
+lui 
+（重读）他
+eux
+（重读）他们
+Moi non plus.
+Neither do I.
+Moi aussi.
+Me too.
+bient^ot
+soon
+un magasin
+(n.m.) store 
+un chaudron
+(n.m.) 大锅
+vin chaud
+热红酒
+nettoyer
+打扫
+une serpe 
+(n.f.) 镰刀
+^etre au r\'egime
+be on a diet
+nettoyer la table apr`es le repas
+clean the table after the meal
+faire un repas 
+make a meal
+donc 
+so
+simple
+simple 
+goûter
+品尝，享受
+un go^uter 
+(n.m.) 下午茶，点心
+la cuisine de la r\'egion / la cuisine locale / les sp\'ecialit\'es locales
+(n.f.) 当地菜
+Je voudrais d'eau 
+I want some water
+Il y a beaucoup d'eau.
+There is a lot of water.
+un verre 
+(n.m.) glass
+une tasse
+(n.f.) cup
+Il y a de verres d'eau.
+There are glasses of water.
+morceau - morceaux
+(n.m.) piece
+un morceau de b\oeuf
+(n.m.) 一块牛肉
+Quel beau jour !
+What a beautiful day!
+Quelle jolie maison !
+What a pretty house!
+Quel repas !
+What a meal!
+Quelle catastrophe !
+What a disaster!
+Ces fleurs sont si belles !
+These flowers are so beautiful!
+savoureux
+delicious
+encore
+再，还
+Elle est encore l\`a.
+She is still there.
+du b\oeuf bourguignon
+(n.m.) 红酒炖牛肉
+la boucherie
+(n.f.) butcher shop
+la boulangerie
+(n.f.) bakery
+la p^atisserie
+(n.f.) pastry shop
+refuser
+refuse
+la ch`evre 
+(n.f.) goat
+le ch`evre / le fromage de ch`evre
+(n.m.) goat cheese
+Allez-y
+来吧
