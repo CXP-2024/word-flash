@@ -979,13 +979,13 @@ Do you have time?
 Il est midi/minuit.
 It's midday/midnight.
 le matin 
-morning
+(on) morning
 l'apr`es-midi
-afternoon
+(in the) afternoon
 la soir\'ee/le soir 
-evening
+(at) evening
 la nuit
-night
+(at) night
 dix heures et quart/demie
 十点一刻/半 
 onze heures moins le quart 
@@ -1782,3 +1782,107 @@ le ch`evre / le fromage de ch`evre
 (n.m.) goat cheese
 Allez-y
 来吧
+se r\'eveiller 
+醒来
+lever 
+lift
+se lever
+起床
+laver
+洗
+se laver
+洗澡，清洁
+habiller
+给……穿衣服
+s'habiller
+穿衣服
+reposer
+放回
+se reposer
+休息
+promener
+领着散步
+se promener
+散步
+coucher
+哄……睡觉
+se coucher
+上床睡觉
+J'aime me lever `a 7 heures.
+我喜欢7点起床。
+dormir
+sleep 
+et puis
+and then 
+ensuite 
+after that
+apr\`es
+之后
+quotidien
+daily
+aller en cours 
+上课
+rentrer au dortoir / ma chambre
+return to the dormitory / my room
+cantine
+canteen
+surfer sur Internet (accent!)
+上网 [s\oerfe]
+aller au mus\'ee pour vois une exposition
+去博物馆看展览
+avoir sommeil
+困倦
+s'habiller avec go^ut 
+有衣品
+la fin
+the end 
+bavarder
+聊天
+content 
+满意
+^etre `a la retraite
+be retired
+chercher
+寻找
+n'est-ce pas ?
+isn't it?
+se passer 
+happen
+Il se passe quelque chose.
+Something is happening.
+Tout se passe bien.
+一切顺利
+Tenez ! 
+拿着
+fait diver 
+(n.m.) 新闻事件
+Qu'est-ce qui se passe ?
+What's happening?
+un vol 
+(n.m.) 偷窃
+un cambriolage
+(n.m.) 入室盗窃
+voler 
+偷
+un voleur
+(n.m.) 小偷
+un assassinat
+(n.m.) 谋杀 (assassination)
+un assassin
+(n.m.) 凶手
+un meurtrier
+(n.m.) 凶手
+un meurtre
+(n.m.) 凶杀
+tuer 
+杀死
+perdre 
+lose 
+une cl\'e / clef 
+(n.f.) 钥匙
+un portefeuille
+(n.m.) 钱包
+J'ai peur !
+I'm scared!
+rechercher 
+search
