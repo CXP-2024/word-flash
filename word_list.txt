@@ -464,8 +464,6 @@ Je pense que ...
 I think that ...
 profession
 (n.f.) 职业
-descendre
-下（楼，车）
 attention
 (n.f.) 当心
 disparition
@@ -1886,3 +1884,77 @@ J'ai peur !
 I'm scared!
 rechercher 
 search
+une victim
+(n.f.) victim
+entendre
+hear
+Je ne vois personne.
+I don't see anyone.
+Je n'entends rien.
+I don't hear anything.
+rien 
+nothing
+Je ne veux rien voir.
+I don't want to see anything.
+Je ne veux voir personne.
+I don't want to see anyone.
+Cette chambre est `a lui.
+This room is his.
+`A qui est cette chambre ?
+Whose room is this?
+mon, ma, mes
+my 
+ton, ta, tes
+your
+son, sa, ses
+his/her
+notre, nos
+our
+votre, vos
+your (plural/formal)
+leur, leurs
+their
+\'ecole
+(n.f.) school
+voisin 
+(n.m.) neighbor
+oncle
+(n.m.) uncle
+bruit
+(n.m.) noise
+en bas 
+downstairs
+en haut 
+upstairs
+monter 
+上（楼）
+descendre
+下（楼）
+peut-^etre
+maybe
+sans doute
+probably
+doute 
+(n.m.) doubt
+le vent
+(n.m.) wind
+une bo^ite 
+(n.f.) box
+un outil
+(n.m.) tool
+une bo^ite `a outils
+(n.f.) 工具箱
+autre 
+other
+Mon Dieu !
+My God!
+trouver
+find
+d\'eguisement
+(n.m.) disguise
+aider
+help
+d\'esirer 
+wish, want
+essayer
+try
