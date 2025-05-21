@@ -424,7 +424,7 @@ jeu
 (n.m.) 游戏
 v\oeu
 (n.m.) 愿望
-bleu
+bleu, bleue
 (n.m.) blue
 neutre
 neutral
@@ -1151,7 +1151,7 @@ study
 la prochaine fois
 下次吧
 la taille 
-(n.f.) 身高
+(n.f.) 身高，尺码
 le poids
 (n.m.) 体型
 gros, grosse
@@ -1163,7 +1163,7 @@ jeune
 les jeunes
 年轻人
 vieux(vieil), vieille
-年老的
+年老的, 旧的
 un/les cheveux
 (n.m.(pl.)) 头发
 blond, blonde
@@ -1179,7 +1179,7 @@ beauty
 beau(bel), belle 
 帅气/漂亮的 
 nouveau(nouvel), nouvelle
-new
+新（得）的
 qualit\'e 
 quality（优点）
 d\'efaut
@@ -1348,19 +1348,19 @@ le rez-de-chauss\'ee (RDC)
 (n.m.) ground floor
 le premier \^etage
 (n.m.) first floor
-premier, premi\`ere
+premier, premi`ere
 1st 
-second/deuxi\`eme
+second/deuxi`eme
 2nd
 mondial
 世界的
-dernier, derni\`ere
+dernier, derni`ere
 最后的
 premi`ere classe 
 一等舱/座
 classe affaires
 商务舱/座
-classe \`economique
+classe `economique
 经济舱/座
 semaine
 (n.f.) week
@@ -1482,7 +1482,7 @@ une rivi`ere
 (n.f.) river
 un endroit
 (n.m.) place
-^etre `a x kilom\`etres
+^etre `a x kilom`etres
 is x kilometers away
 une grange
 (n.f.) barn
@@ -1652,7 +1652,7 @@ C'est tout.
 That's all.
 boire
 drink
-de la bi\`ere
+de la bi`ere
 (n.f.) beer
 fair une critique
 做评论
@@ -1672,7 +1672,7 @@ le pourboire
 (n.m.) 小费
 au choix 
 at choice
-verte
+vert, verte
 绿色的
 p^at\'e
 (n.f.) pasta
@@ -1686,8 +1686,6 @@ J'ai h^ate !
 我很期待
 le canard laqu\'e 
 (n.m.) 烤鸭
-essayer
-try
 r^oti
 roast
 peau 
@@ -1738,7 +1736,7 @@ Je voudrais d'eau
 I want some water
 Il y a beaucoup d'eau.
 There is a lot of water.
-un verre 
+un verre / le verre
 (n.m.) glass
 une tasse
 (n.f.) cup
@@ -1814,7 +1812,7 @@ et puis
 and then 
 ensuite 
 after that
-apr\`es
+apr`es
 之后
 quotidien
 daily
@@ -1940,8 +1938,8 @@ le vent
 (n.m.) wind
 une bo^ite 
 (n.f.) box
-un outil
-(n.m.) tool
+un outil [accent!]
+(n.m.) tool [uti]
 une bo^ite `a outils
 (n.f.) 工具箱
 autre 
@@ -1958,3 +1956,163 @@ d\'esirer
 wish, want
 essayer
 try
+pendant
+during
+lait 
+(n.m.) milk
+Essaie cette veste, elle est tr\'es belle.
+Try this jacket, it's very beautiful.
+J'essaie de parler fran\,cais.
+I try to speak French.
+un costume
+(n.m.) suit
+un blouson
+(n.m.) jacket
+une robe
+(n.f.) dress
+une jupe
+(n.f.) skirt
+un chemisier
+(n.m.) blouse
+une chemise
+(n.f.) shirt
+une ceinture
+(n.f.) belt
+une chaussette
+(n.f.) sock
+une chaussure
+(n.f.) shoe
+une paire de chaussures
+a pair of shoes
+un pantalon
+(n.m.) pants
+une \'echarpe
+(n.f.) scarf
+un manteau
+(n.m.) 大衣
+un pull-over
+(n.m.) sweater
+une botte
+(n.f.) boot
+`a la mode 
+in fashion
+long, longue
+long 
+court, courte
+short
+large
+宽松的
+\'etroit, \'etroite
+紧身的
+neuf, neuve
+新（制）的
+Vous cherchez quelle couleur ? / De quelle couleur ?
+What color are you looking for?
+rouge
+红色的
+jaune
+黄色的
+bleu clair 
+浅蓝色的
+violet, violette
+紫色的
+marron, marron
+栗棕色的
+gris, grise
+灰色的
+noir, noire
+黑色的
+blanc, blanche [accent!]
+白色的 [blɑ̃]
+le cuir 
+(n.m.) 皮革
+le coton
+(n.m.) 棉花
+le velours
+(n.m.) 天鹅绒
+le laine 
+(n.m.) 羊毛
+le bois 
+(n.m.) 木头
+le fer 
+(n.m.) 铁
+le plastique
+(n.m.) 塑料
+la pierre
+(n.f.) 石头
+l'or
+(n.m.) 黄金
+l'argent
+(n.m.) 银，钱
+un blouson de/en cuir
+(n.m.) 皮夹克
+Ce blouson est en cuir.
+This jacket is made of leather.
+la pointure
+(n.f.) 鞋码
+Quelle est votre taille ? / Quelle taille faites-vous ?
+What is your size?
+Je fais du 38.
+I wear size 38.
+peser 
+weigh
+Je p`ese 60 kilos.
+我60公斤重。
+Le morceau de viande p`ese 200 grammes.
+The piece of meat weighs 200 grams.
+Combien il p`ese ?
+How much does it weigh?
+mesurer 
+measure
+Je mesure 1 m`etre 80.
+I am 1.80 meters tall.
+La pi`ece mesure 2 m sur 3.
+这个房间长2米，宽3米。
+une cabine d'essayage
+(n.f.) 试衣间
+mettre
+穿上，戴上
+porter
+穿着，戴着
+payer [accent!]
+pay [peje]
+prix
+(n.m.) price
+co^uter 
+cost
+Combien co^ute ce pantalon ?
+How much does this pants cost?
+Il co^ute 150 F.
+It costs 150 Francs.
+C'est bon march\'e.
+It's a good deal. （便宜）
+les soldes
+(n.f.pl.) 打折
+billet 
+(n.m.) 票，钞票
+un billet de 50 F
+(n.m.) 50法郎的钞票
+une pi`ece de 10 F
+(n.f.) 10法郎的硬币
+centime
+(n.m.) 分币
+L'euro
+(n.m.) 欧元
+€1.50 (un euro cinquante)
+1.50欧元
+payer en liquide / par chèque / avec une carte de crédit
+用现金/支票/信用卡支付
+C'est pour offrir ?
+Is it for a gift?
+du tissu
+(n.m.) cloth
+le ruban
+(n.m.) ribbon
+des rideaux
+(n.m.pl.) 窗帘
+Venez par ici.
+Come here.
+curieux, curieuse
+curious
+5 F le m`etre 
+5法郎每米
