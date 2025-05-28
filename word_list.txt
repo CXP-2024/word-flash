@@ -2029,7 +2029,7 @@ le cuir
 le coton
 (n.m.) 棉花
 le velours
-(n.m.) 天鹅绒
+(n.m.) 天鹅绒，灯芯绒
 le laine 
 (n.m.) 羊毛
 le bois 
@@ -2116,3 +2116,97 @@ curieux, curieuse
 curious
 5 F le m`etre 
 5法郎每米
+tout(toute), tous(toutes)
+all
+Il mange tout le g^ateau.
+He eats all the cake.
+Tous mes amis sont chez moi.
+All my friends come to my home.
+tout 
+all thing
+tous, toutes
+all people 
+la mercerie
+(n.f.) 缝纫用品店
+v^etement
+(n.m.) clothing
+polyester
+(n.m.) 聚酯纤维
+\'etrange
+strange
+Chut [accent!]
+Shh [ʃyt]
+regarder par 
+从……看
+des gens
+some people
+les gens
+people 
+les personnages
+(n.m.pl.) characters
+un lavabo
+(n.m.) 洗脸盆
+une serviette
+(n.f.) 毛巾
+un savon
+(n.m.) 肥皂
+une brosse `a dents
+(n.f.) 牙刷
+un dentifrice
+(n.m.) 牙膏
+un shampooing
+(n.m.) 洗发水
+se d\'ep^echer 
+hurry up
+Il faut ...
+You must ...
+devoir
+must
+Nous devons partir.
+We must leave.
+pr\'eparer
+prepare
+un d\'efilé
+(n.m.) 游行，时装秀
+s'asseoir
+sit down
+un carnaval
+(n.m.) 狂欢节
+se mettre
+置身于
+malade
+sick
+Assieds-toi ici.
+Sit down here.
+^etre assis(e)
+be seated
+^etre debout
+be standing
+^etre couch\'e(e)
+be lying down
+mettre sur une chaise
+sit on a chair
+un pr^etre 
+(n.m.) 神父，祭司
+une explication
+(n.f.) explanation
+un concours
+(n.m.) 竞赛
+se d\'eguiser en ...
+disguise oneself as ...
+attendre
+wait
+une cuill`ere
+(n.f.) spoon
+la p^ate 
+(n.f.) 面糊
+une recette
+(n.f.) recipe
+la farine
+(n.f.) 面粉
+ajouter 
+add
+une cuill`ere `a caf\'e de sel 
+(n.f.) 一茶(?)匙盐
+un tableau
+(n.m.) painting
